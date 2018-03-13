@@ -3,6 +3,7 @@ MATLAB simulation of a passive dynamic walker based on the UTSA mascot, the Rowd
 
 Video files:
 (1) A video of 3D printing of the toy is on YouTube (46 secs long): https://youtu.be/sAGWg-DyDOw
+
 (2) A video of the match between simulation and animation is on YouTube (17 secs long): https://youtu.be/sAGWg-DyDOw 
 
 The MATLAB files in this repository may be used to create the animation as shown in video (2) above. 
