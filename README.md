@@ -9,7 +9,8 @@ Video files:
 
 The MATLAB files in this repository may be used to create the animation as shown in video (2) above. 
 
-All files may be run using MATLAB
+All files may be run using MATLAB. Tested on MATLAB 2016A
+
 (1) RowdyWalkerSim - creates a simulation of the toy
 
 (2) derive1DOF_front_stance_Sec3_1.m, derive2DOF_rear_stance_Sec3_3_Sec3_4.m, derive1DOF_rear_stance_Sec3_5.m, and derive2DOF_front_stance_Sec3_7_Sec3_8.m - used to derive the equations of motion that are then placed in the RowdyWalkerSim file.
